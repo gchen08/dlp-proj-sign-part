@@ -1,0 +1,17 @@
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+*.eml
+out/
+ 
+# Eclipse Project files
+.classpath
+.project
+.settings/
+ 
+# My configuation 
+*.bak
+*.bin
+thumb.db
